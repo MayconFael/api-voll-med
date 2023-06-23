@@ -1,0 +1,7 @@
+Spring boot 3
+JAVA 17
+Lombok
+MySQL /Flyway
+JPA/Hibernate
+Maven
+Insomia
