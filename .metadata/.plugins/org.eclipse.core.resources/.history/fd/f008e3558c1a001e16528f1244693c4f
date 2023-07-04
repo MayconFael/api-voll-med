@@ -1,0 +1,1 @@
+ADD telefone2 VARCHAR(20) NOT NULL;
